@@ -1,4 +1,19 @@
+# React-Tetris
+
 Web Tetris game built with React.
+
+Demo: https://reactjs-tetris-game.herokuapp.com/
+
+## To use
+
+```shell
+$ npm install
+$ npm start
+```
+
+Access the Tetris at http://localhost:3000/.
+
+Use the arrow keys to move the tetris blocks.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
